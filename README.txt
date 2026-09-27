@@ -15,6 +15,14 @@ Sabtu 26 September 2026
 	Belajar tag list <ol>, <li>, <ul>, <dl>, <dt>, <dd>
 6. Html-dasar-latihan-6
 	Belajar hyperlink, link external, internal, relative link, page anchor, atribut id,# 
+
+Minggu 27 September 2026
+7. Html-dasar-latihan-7
+	Belajar tag <image> src, alt, widht,height, hyperlink+image
+8. Html-dasar-latihan-8
+	Struktur tabel, tr,td, atribut border, cellspascing, cellpadding,thead, rowspan,colspan
+9. html-dasar-latihan-9
+	tag <form> textarea, select, button, label
 sumber belajar 
 Youtub WPU
 https://youtu.be/NBZ9Ro6UKV8?si=_NLin1r_XaXwjO7P
